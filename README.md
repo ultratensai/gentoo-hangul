@@ -13,7 +13,7 @@ export XMODIFIERS=@im=fcitx5
 ```
 
 
-설정파일
+Example config files--
 
 ~/.config/fcitx5/profile:
 ```
